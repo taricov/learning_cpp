@@ -37,5 +37,4 @@ int main(){
  log.Error("Hello!!");
  log.Info("Hello!!");
 
-};
-
+}
